@@ -1423,6 +1423,13 @@ const list = [{
 		twitter_username: 'string1301',
 	},
 	{
+
+		name: 'Manal Jain',
+		country: 'India',
+		role: 'Developer',
+		tech_stack: ['Javascript', 'React', 'Python','Java'],
+		github_username: 'manaljain6667',
+},{
 		name: 'Michelle Tanoto',
 		country: 'Australia',
 		role: 'Software Developer',
